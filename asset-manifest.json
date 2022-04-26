@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Google_Note/static/css/main.b7fa0fcb.css",
+    "main.js": "/Google_Note/static/js/main.049a8409.js",
+    "index.html": "/Google_Note/index.html",
+    "main.b7fa0fcb.css.map": "/Google_Note/static/css/main.b7fa0fcb.css.map",
+    "main.049a8409.js.map": "/Google_Note/static/js/main.049a8409.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7fa0fcb.css",
+    "static/js/main.049a8409.js"
+  ]
+}
